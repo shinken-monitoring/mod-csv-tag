@@ -1,0 +1,26 @@
+{
+  "name": "csv-tag",
+  "types": ["module"],
+  "version": "1.4",
+  "homepage": "http://github.com/shinken-monitoring/mod-csv-tag",
+  "author": "Jean Gabès",
+  "description": "Tagging host configuration based on a csv file content",
+  "contributors": [
+    {
+      "name": "Jean Gabès",
+      "email": "naparuba@gmail.com"
+    }
+  ],
+  "repository": "https://github.com/shinken-monitoring/mod-csv-tag",
+  "keywords": [
+    "module",
+    "arbiter",
+    "configuration",
+    "csv",
+    "tag"
+  ],
+  "dependencies": {
+    "shinken": ">=1.4"
+  },
+  "license": "AGPL"
+}
